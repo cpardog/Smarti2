@@ -1,6 +1,8 @@
 # DIGER - Sistema de Gestión de Riesgo
 
 Aplicación web moderna con interfaz de menú profesional basada en React + Vite + TailwindCSS.
+Este cambio se hizo desde el repositorio en internet no desde una maquina local . Ojo con estos cambios y los
+Comandos para usarlos de manera correcta.
 
 ## 🚀 Inicio Rápido
 
@@ -78,3 +80,4 @@ Para agregar submenús a cualquier opción, edite el archivo `src/components/Nav
 - Lucide React (iconos)
 "# Smarti2" 
 "# Smarti2" 
+
